@@ -1,6 +1,6 @@
-<div class="h-28 w-28 shadow">test</div>
+<div class="h-28 w-28 shadow">actual</div>
 
-<div class="h-28 w-28 tailwind-shadow">test</div>
+<div class="h-28 w-28 tailwind-shadow">expected</div>
 
 <style>
     .tailwind-shadow {
